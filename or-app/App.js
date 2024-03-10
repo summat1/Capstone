@@ -2,7 +2,8 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import DetailedOR from './DetailedOR';
-import HomeInterface from './HomeInterface'; 
+import HomeInterface from './HomeInterface';
+import MenuInterface from './MenuInterface'; 
 
 const Stack = createStackNavigator();
 
